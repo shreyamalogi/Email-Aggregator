@@ -11,9 +11,9 @@ Deployed on Heroku at : https://sheltered-gorge-01840.herokuapp.com/
 
 # Overview 
 
-(project overview)[]
+[project overview](https://github.com/shreyamalogi/mails/blob/main/mails%20collector%20overview.pdf)
 
-(subscribers data overview)[https://github.com/shreyamalogi/mails/blob/main/subscribed_members_export_af94264fa1%20-%20subscribed_members_export_af94264fa1.pdf]
+[subscribers data overview](https://github.com/shreyamalogi/mails/blob/main/subscribed_members_export_af94264fa1%20-%20subscribed_members_export_af94264fa1.pdf)
 
 
 
